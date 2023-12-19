@@ -1,0 +1,154 @@
+.contactUs {
+  position: absolute;
+  width: calc(100% - 439.4px);
+  top: calc(50% - 384.5px);
+  left: 241px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 208px;
+}
+.groupChild,
+.wrapperGroup2Child {
+  outline: 0;
+  font-family: var(--font-kotta-one);
+  color: var(--color);
+}
+.groupChild {
+  border: 1px solid var(--color);
+  font-size: var(--font-size-21xl);
+  background-color: var(--ffffff);
+  position: absolute;
+  top: 561px;
+  left: 21px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 1260.4px;
+  height: 208px;
+  padding: var(--padding-16xl) 0 var(--padding-108xl);
+}
+.wrapperGroup2Child {
+  font-size: var(--font-size-16xl);
+  padding: var(--padding-xs) 0 var(--padding-smi-5);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+}
+.wrapperGroup2,
+.wrapperGroup2Item {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  height: 80.5px;
+}
+.wrapperGroup2Item {
+  width: 476.5px;
+  object-fit: cover;
+  z-index: 2;
+  right: 0;
+  top: 0;
+}
+.wrapperGroup2 {
+  border: 1px solid var(--color);
+  background-color: var(--ffffff);
+  top: 280px;
+  left: 0;
+  box-sizing: border-box;
+  width: 515.5px;
+}
+.wrapperGroup4Child {
+  outline: 0;
+  font-family: var(--font-kotta-one);
+  font-size: var(--font-size-16xl);
+  padding: var(--padding-10xl) var(--padding-mini) var(--padding-9xl-5);
+  color: var(--color);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+}
+.wrapperGroup4,
+.wrapperGroup4Item {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  width: 476.5px;
+  height: 80.5px;
+}
+.wrapperGroup4Item {
+  object-fit: cover;
+  z-index: 2;
+  left: 0;
+  top: 0;
+}
+.wrapperGroup4 {
+  border: 1px solid var(--color);
+  background-color: var(--ffffff);
+  top: 415px;
+  left: 43px;
+  box-sizing: border-box;
+}
+.wrapperGroup3Child {
+  outline: 0;
+  font-family: var(--font-kotta-one);
+  font-size: var(--font-size-16xl);
+  padding: var(--padding-xl) var(--padding-9xs) var(--padding-10xl-5);
+  color: var(--color);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+}
+.wrapperGroup3 {
+  position: absolute;
+  border: 1px solid var(--color);
+  background-color: var(--ffffff);
+  top: 280px;
+  left: 804px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 476.5px;
+  height: 80.5px;
+}
+.wrapperGroup5Child {
+  outline: 0;
+  font-family: var(--font-kotta-one);
+  font-size: var(--font-size-16xl);
+  padding: var(--padding-smi) 0 var(--padding-9xl-5);
+  color: var(--color);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+}
+.wrapperGroup5 {
+  position: absolute;
+  border: 1px solid var(--color);
+  background-color: var(--ffffff);
+  top: 415px;
+  left: 783px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 497.5px;
+  height: 80.5px;
+}
+.contactUsParent {
+  position: absolute;
+  width: calc(100% - 158.6px);
+  top: calc(50% - 512px);
+  right: 101.6px;
+  left: 57px;
+  height: 769px;
+}
+.desktop5 {
+  position: absolute;
+  top: 4124px;
+  left: -12px;
+  background-color: var(--color-lavender);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-46xl);
+  color: var(--color);
+  font-family: var(--font-koulen);
+}

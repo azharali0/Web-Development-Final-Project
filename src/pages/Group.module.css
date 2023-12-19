@@ -1,0 +1,148 @@
+.chicagoUs,
+.islamabadPakistan,
+.karachiPakistan,
+.luxumberg,
+.newDelhiIndia,
+.parisFrance {
+  position: absolute;
+  top: 363px;
+  left: 101px;
+  display: flex;
+  align-items: center;
+  width: 220px;
+  height: 53px;
+}
+.chicagoUs,
+.islamabadPakistan,
+.karachiPakistan,
+.luxumberg,
+.newDelhiIndia {
+  left: 526px;
+}
+.chicagoUs,
+.karachiPakistan,
+.luxumberg,
+.newDelhiIndia {
+  left: 933px;
+}
+.chicagoUs,
+.luxumberg,
+.newDelhiIndia {
+  top: 673px;
+  left: 101px;
+}
+.chicagoUs,
+.luxumberg {
+  top: 666px;
+  left: 526px;
+}
+.luxumberg {
+  top: 672px;
+  left: 933px;
+}
+.forSale {
+  position: absolute;
+  top: 2076px;
+  left: -12px;
+  background-color: var(--color-lavender);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.exploreYourDreams {
+  position: absolute;
+  width: calc(100% - 598px);
+  top: calc(50% - 820.5px);
+  left: 268px;
+  font-size: var(--font-size-21xl);
+  display: flex;
+  font-family: var(--font-kopub-batang);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 65px;
+}
+.image10Icon,
+.image11Icon,
+.image6Icon,
+.image7Icon,
+.image8Icon,
+.image9Icon {
+  position: absolute;
+  top: 2223px;
+  left: 86px;
+  width: 375px;
+  height: 216px;
+  object-fit: cover;
+}
+.image10Icon,
+.image11Icon,
+.image7Icon,
+.image8Icon,
+.image9Icon {
+  left: 511px;
+}
+.image10Icon,
+.image11Icon,
+.image8Icon,
+.image9Icon {
+  left: 919px;
+}
+.image10Icon,
+.image11Icon,
+.image9Icon {
+  top: 2529px;
+  left: 81px;
+}
+.image10Icon,
+.image11Icon {
+  left: 508px;
+}
+.image11Icon {
+  left: 924px;
+}
+.desktop1Parent {
+  position: absolute;
+  top: 0;
+  left: 163px;
+  width: 1440px;
+  height: 5817px;
+}
+.groupChild {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.image14Icon {
+  position: absolute;
+  top: 2851px;
+  left: 801px;
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.frameParent {
+  position: relative;
+  width: 100%;
+  height: 5817px;
+  text-align: left;
+  font-size: var(--button-text-large-bold-size);
+  color: var(--color);
+  font-family: var(--font-kotta-one);
+}
+@media screen and (max-width: 1200px) {
+  .desktop1Parent {
+    opacity: 1;
+  }
+  .desktop1Parent.animate {
+    animation: 1s ease 1s 1 normal forwards flip-horizontal-bottom;
+  }
+  @keyframes flip-horizontal-bottom {
+    0% {
+      transform: rotateX(0);
+    }
+    to {
+      transform: rotateX(-180deg);
+    }
+  }
+}

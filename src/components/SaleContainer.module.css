@@ -1,0 +1,71 @@
+.saveItemBtnChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 181.9px;
+  height: 60px;
+}
+.saveItem {
+  position: absolute;
+  top: 19.1px;
+  left: 19.3px;
+  font-size: var(--button-text-large-bold-size);
+  font-weight: 500;
+  font-family: var(--font-fira-sans);
+  color: var(--color-whitesmoke);
+  text-align: center;
+  display: inline-block;
+  width: 142.4px;
+  height: 28.1px;
+}
+.buyNowBtnChild,
+.saveItemBtn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 60px;
+}
+.saveItemBtn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 181.9px;
+}
+.buyNowBtnChild {
+  background-color: var(--color-forestgreen);
+  width: 170.1px;
+}
+.buyNow {
+  position: absolute;
+  top: 19.1px;
+  left: 57.2px;
+  font-size: var(--button-text-large-bold-size);
+  font-weight: 800;
+  font-family: var(--font-fira-sans);
+  color: var(--color-whitesmoke);
+  text-align: center;
+  display: inline-block;
+  width: 97px;
+  height: 28.1px;
+}
+.bottomFixedBtn,
+.buyNowBtn {
+  position: absolute;
+  height: 60px;
+}
+.buyNowBtn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 181.9px;
+  width: 170.1px;
+}
+.bottomFixedBtn {
+  top: 482px;
+  left: 124px;
+  width: 352px;
+}

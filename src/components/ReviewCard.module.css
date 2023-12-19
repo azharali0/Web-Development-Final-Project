@@ -1,0 +1,145 @@
+.reviews {
+  position: absolute;
+  top: 0;
+  left: 477px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-koulen);
+  color: var(--color);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 486px;
+  height: 116px;
+}
+.reviewChild {
+  position: absolute;
+  top: 216px;
+  left: 112px;
+  background-color: var(--ffffff);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 600px;
+  height: 209.7px;
+}
+.star5Icon,
+.star7Icon {
+  position: absolute;
+  top: 256px;
+  left: 211px;
+  width: 16.8px;
+  height: 16px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.star5Icon {
+  left: 283px;
+}
+.p {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.p2 {
+  margin: 0;
+}
+.div,
+.seoContainer {
+  position: absolute;
+  top: 312px;
+  left: 151px;
+}
+.div {
+  top: 238px;
+  left: 206px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color);
+}
+.reviewItem {
+  position: absolute;
+  top: 237.9px;
+  left: 132.7px;
+  border-radius: 50%;
+  width: 55.6px;
+  height: 55.6px;
+  object-fit: cover;
+}
+.reviewInner {
+  position: absolute;
+  top: 216px;
+  left: 742px;
+  background-color: var(--ffffff);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 600px;
+  height: 209.7px;
+}
+.star11Icon,
+.star12Icon,
+.star13Icon,
+.star14Icon {
+  position: absolute;
+  top: 256px;
+  left: 921px;
+  width: 16.8px;
+  height: 16px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.star11Icon,
+.star12Icon,
+.star13Icon {
+  left: 900px;
+}
+.star11Icon,
+.star12Icon {
+  left: 879px;
+}
+.star11Icon {
+  left: 858px;
+}
+.div1,
+.star10Icon {
+  position: absolute;
+  top: 317.1px;
+  left: 764.9px;
+}
+.star10Icon {
+  top: 256px;
+  left: 837px;
+  width: 16.8px;
+  height: 16px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.armenSargsyan,
+.ellipseIcon {
+  position: absolute;
+  top: 237.9px;
+}
+.armenSargsyan {
+  left: 842.3px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--color);
+}
+.ellipseIcon {
+  left: 764.9px;
+  border-radius: 50%;
+  width: 55.6px;
+  height: 55.6px;
+  object-fit: cover;
+}
+.review {
+  position: absolute;
+  top: 3100px;
+  left: -12px;
+  background-color: var(--color-lavender);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-gilroy);
+}

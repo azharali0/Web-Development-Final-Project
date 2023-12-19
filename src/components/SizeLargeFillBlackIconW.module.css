@@ -1,0 +1,26 @@
+.icon {
+  position: relative;
+  width: 36px;
+  height: 48px;
+  object-fit: cover;
+}
+.signInWith {
+  position: relative;
+  line-height: 120%;
+}
+.sizelargeFillblackIconw {
+  border-radius: var(--br-5xs);
+  background-color: var(--color);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-5xl) var(--padding-xs)
+    var(--padding-xl);
+  gap: var(--gap-xs);
+  text-align: center;
+  font-size: var(--button-text-large-bold-size);
+  color: var(--ffffff);
+  font-family: var(--button-text-large-bold);
+}

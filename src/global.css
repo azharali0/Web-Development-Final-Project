@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kokoro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kotta+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,500;0,800;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=KoPub+Batang:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Koulen:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gilroy:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --button-text-large-bold: Inter;
+  --font-kotta-one: "Kotta One";
+  --font-koulen: Koulen;
+  --font-gilroy: Gilroy;
+  --font-kopub-batang: "KoPub Batang";
+  --font-fira-sans: "Fira Sans";
+  --font-kokoro: Kokoro;
+  --font-allerta-stencil: "Allerta Stencil";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-16xl: 35px;
+  --font-size-21xl: 40px;
+  --font-size-46xl: 65px;
+  --font-size-mini: 15px;
+  --font-size-45xl: 64px;
+  --button-text-large-bold-size: 24px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-26xl: 45px;
+  --font-size-36xl: 55px;
+
+  /* Colors */
+  --color: #000;
+  --ffffff: #fff;
+  --color-darkslategray-100: #3e3e3e;
+  --color-darkslategray-200: #2d2d2d;
+  --color-silver-100: #bdbdbd;
+  --color-silver-200: #b7b7b7;
+  --color-lavender: #e3d7e3;
+  --color-gray-100: rgba(0, 0, 0, 0.37);
+  --color-gray-200: rgba(0, 0, 0, 0.05);
+  --color-whitesmoke: #ececec;
+  --color-forestgreen: #41ac3e;
+  --color-dimgray: #727272;
+  --color-tomato: #ff5a5f;
+  --primary-500: #2280ef;
+  --color-gold-100: #f1db0f;
+  --color-gold-200: #eed706;
+
+  /* Gaps */
+  --gap-2xs-6: 10.6px;
+  --gap-base: 16px;
+  --gap-mid-2: 17.2px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-197xl: 216px;
+  --padding-12xs-4: 0.4px;
+  --padding-146xl-5: 165.5px;
+  --padding-61xl: 80px;
+  --padding-129xl-8: 148.8px;
+  --padding-9xl: 28px;
+  --padding-3xs-2: 9.2px;
+  --padding-sm-5: 13.5px;
+  --padding-smi: 13px;
+  --padding-9xl-5: 28.5px;
+  --padding-xl: 20px;
+  --padding-9xs: 4px;
+  --padding-10xl-5: 29.5px;
+  --padding-10xl: 29px;
+  --padding-mini: 15px;
+  --padding-xs: 12px;
+  --padding-smi-5: 12.5px;
+  --padding-16xl: 35px;
+  --padding-108xl: 127px;
+  --padding-2xs-5: 10.5px;
+  --padding-41xl: 60px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-5xl-5: 24.5px;
+  --br-3xs: 10px;
+  --br-41xl: 60px;
+  --br-5xs: 8px;
+}
